@@ -16,5 +16,5 @@ https://github.com/tgbot-collection/YYeTsBot/blob/master/DEVELOPMENT.md#%E4%B8%8
 
 ## 使用
 ```bash
-sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/Cnotech/YYeTsWeb/master/scripts/install.sh)"
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/Cnotech/YYeTsWeb/master/install.sh)"
 ```
